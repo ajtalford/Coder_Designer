@@ -93,8 +93,7 @@
 
     background-size: cover;
   }
-  <img src="https://i.ibb.co/KVFFm88/download.jpg" alt="download" border="0">
-<img src="https://i.ibb.co/Gx9QwzX/images.png" alt="images" border="0">
+ 
   .split.right:before {
     position:absolute;
     content: "";
