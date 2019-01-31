@@ -72,8 +72,8 @@
   
   .split.left {
     left:0;
-    /* background: url('https://image.ibb.co/m56Czw/designer.jpg') center center no-repeat; */
-    background: url('https://i.ibb.co/KVFFm88/download.jpg') center center no-repeat;
+    background: url('https://image.ibb.co/m56Czw/designer.jpg') center center no-repeat;
+    /* background: url('https://i.ibb.co/KVFFm88/download.jpg') center center no-repeat; */
 
     background-size: cover;
   }
@@ -98,7 +98,7 @@
   .split.right:before {
     position:absolute;
     content: "";
-    width: 100%;
+    width: 101%
     height: 100%;
     background: var(--right-bg-color);
   }
