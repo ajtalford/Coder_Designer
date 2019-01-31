@@ -97,7 +97,7 @@
   .split.right:before {
     position:absolute;
     content: "";
-    width: 101%
+    width: 100%;
     height: 100%;
     background: var(--right-bg-color);
   }
